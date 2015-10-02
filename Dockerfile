@@ -1,6 +1,6 @@
 FROM centos:latest
 
-MAINTAINER Kamel Ouzouigh <https://github.com/jeteokeeffe/docker-memcached>
+MAINTAINER Kamel Ouzouigh <https://github.com/booking59/docker-memcached>
 
 # Install memcached
 RUN yum update -y
